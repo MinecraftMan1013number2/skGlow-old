@@ -1,0 +1,8 @@
+name: skGlow
+description: Make players glow with Skript
+authors: [MinecraftMan1013]
+version: 1.0.0
+main: com.minecraftman.skglow.SkGlow
+softdepend:
+  - Skript
+  - eGlow
